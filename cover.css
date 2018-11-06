@@ -19,10 +19,10 @@ a:hover {
   border: .05rem solid rgb(241, 241, 241);
 }
 
-#full_logo {
+/* #full_logo {
   -webkit-filter: drop-shadow(0px 0px 5px rgb(128, 128, 128));
   filter: drop-shadow(0px 0px 5px rgb(128, 128, 128));
-}
+} */
 
 /*
  * Base structure
@@ -32,7 +32,7 @@ html,
 body {
   height: 100%;
   background-color: #333;
-  background-image: url("assets/spiral.svg");
+  /* background-image: url("assets/spiral.svg"); */
   background-size: 100%;
   background-position-x: center;
   background-position-y: center;
